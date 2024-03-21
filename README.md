@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity, React and more**
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UCg6HNdl-Icya1KG9eK65Evg](https://www.youtube.com/channel/UCg6HNdl-Icya1KG9eK65Evg)
+- 👨‍💻 All of my projects are available at [Belmira](https://www.youtube.com/channel/UCg6HNdl-Icya1KG9eK65Evg)
 
 - 📫 How to reach me **alexandretuandopham@gmail.com**
 
